@@ -4,7 +4,7 @@ By the end of this week you will be able to:
 * answer basic questions about a dataset by aggregating and visualizing data
 * create an interactive dashboard to share your results
 
-Each class this week will start with guided exercises to learn Tableau using the `Lobbying.csv` dataset.  After you get comfortable manipulating data, you will explore the `titanic.csv` data on your own.
+This week will start with guided exercises to learn Tableau using the `Lobbying.csv` dataset.  After you get comfortable manipulating data, you will explore the `titanic.csv` data on your own.
 
 ## Citations and Further Reading
 
