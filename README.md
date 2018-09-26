@@ -41,7 +41,7 @@ The topic is up to you, but examples include:
 I will read what you wrote and give a quick response (possibly up to a week later).  I may bring up what you write to me in class unless you explicitly ask me in that email not to.
 
 ### Schedule
-Details about assignments and reading are on github.
+Details about assignments and reading are inside the weekly folders on github.
 
 Week | Section | Topic
 --- | --- | ---
