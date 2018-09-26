@@ -1,6 +1,5 @@
 # CSE 91 (DSC 96)
-## Data Science Workshop
-## Fall 2018
+## Data Science Workshop, Fall 2018
 
 **Instructor**: Colin Jemmott, cjemmott@ucsd.edu
 
@@ -76,14 +75,18 @@ You get super excited about a class project and decide to keep working on it aft
 If you are unsure about if what you are doing is ok, just ask!  You will never be reprimanded in this class for asking for clarification. Also note that this is likely a different standard than your other classes
 
 ### Grading
-20% journaling responses to the reading
-30% SDPD traffic stops Tableau project
-20% Best assignment of “Why did it happen?” section (you choose)
-20% SDPD traffic stops final project
-10% In-class engagement
+Assignment | Percent of Grade
+--- | ---
+Journaling responses to the reading | 20%
+SDPD traffic stops Tableau project | 30%
+Best assignment of “Why did it happen?” section (you choose) | 20%
+SDPD traffic stops final project | 20%
+In-class engagement | 10%
 
-Pass 		70%-100%
-No Pass	0%-69% 
+Total Received | Final Grade
+--- | ---
+70%-100% | Pass
+70%-100% | No Pass
 
 ### Academic Integrity
 For this class, the key to academic integrity is accurately representing the status and authorship of your work.  I strongly encourage you to read [the official UCSD policy on integrity of scholarship](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2).
@@ -97,5 +100,5 @@ In my opinion, the key to this is recognizing the inherent worth and dignity of 
 If you have a disability for which you are or may be requesting accommodations, please contact [Office for Students with Disabilities](https://students.ucsd.edu/well-being/disability-services/).  You must have documentation from the the Office before accommodations can be granted.
  
 ### Additional Information
-[Data Science Program](http://datascience.ucsd.edu/academics/undergraduate/index.html)
-[UC San Diego Library’s guide for data and statistics](http://ucsd.libguides.com/data-statistics)
+* [Data Science Program](http://datascience.ucsd.edu/academics/undergraduate/index.html)
+* [UC San Diego Library’s guide for data and statistics](http://ucsd.libguides.com/data-statistics)
