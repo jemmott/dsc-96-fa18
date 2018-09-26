@@ -1,6 +1,6 @@
-# Week 9: Prediction 1
+# Weeks 9 & 10: Prediction
 
-## Reading Assignment
+## Reading Assignments
 
 ### Week 9
 
