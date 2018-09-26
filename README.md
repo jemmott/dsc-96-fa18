@@ -88,7 +88,7 @@ In-class engagement | 10%
 Total Received | Final Grade
 --- | ---
 70%-100% | Pass
-70%-100% | No Pass
+0%-69% | No Pass
 
 ### Academic Integrity
 For this class, the key to academic integrity is accurately representing the status and authorship of your work.  I strongly encourage you to read [the official UCSD policy on integrity of scholarship](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2).
