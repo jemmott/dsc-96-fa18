@@ -3,11 +3,15 @@
 ## Fall 2018
 
 **Instructor**: Colin Jemmott, cjemmott@ucsd.edu
+
 **Classes**: Monday and Wednesday
-	**Section A**: 6:30 PM - 7:50 PM, TM102 1
-	**Section B**: 8:00 PM - 9:20 PM, EBU3B 2154
+* **Section A**: 6:30 PM - 7:50 PM, TM102 1
+* **Section B**: 8:00 PM - 9:20 PM, EBU3B 2154
+
 **Office Hours**: Wednesdays, 4:00 PM - 6:00 PM, CSE 3234
+
 **Piazza**: [link](https://piazza.com/class/jm55qhxff665xt)
+
 **Github**: [link](https://github.com/jemmott/dsc-96/)
 
 ### Course Description
