@@ -1,4 +1,4 @@
-# Week 5: 
+# Week 5: Images
 
 ## Reading Assignment
 
