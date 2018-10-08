@@ -17,3 +17,7 @@ For example, we might ask if traffic enforcement is fair with respect to gender.
 ## Reading Assignment
 
 Eremenko Ch 3
+
+and
+
+["We’re Measuring the Economy All Wrong](https://www.nytimes.com/2018/09/14/opinion/columnists/great-recession-economy-gdp.html)
