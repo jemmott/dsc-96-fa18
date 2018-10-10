@@ -2,4 +2,4 @@
 
 ## Reading Assignment
 
-Eremenko Ch 4
+Eremenko Ch 4 & 5
