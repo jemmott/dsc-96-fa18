@@ -12,3 +12,7 @@ This week we transition from Tableau to Python, which we will be using for the r
 ## Reading Assignment
 
 [Physiognomy’s New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a) by by Blaise Agüera y Arcas, Margaret Mitchell and Alexander Todorov.
+
+## Further Reading
+
+[Using SciPy for image processing](http://www.scipy-lectures.org/advanced/image_processing/index.html)
