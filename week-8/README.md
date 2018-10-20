@@ -7,3 +7,5 @@ Introduction to [Fairness and Machine Learning: Limitations and Opportunities](h
 ## References
 
 I really like the paper [Controlled experiments on the web: survey and practical guide](http://www.robotics.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf).  Some of the lecture was taken from there.
+
+Confident Data Skills by Kirill Eremenko has an easy overview of two solutions in chapter 7.
