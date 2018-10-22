@@ -22,4 +22,6 @@ Introduction to [Fairness and Machine Learning: Limitations and Opportunities](h
 
 I really like the paper [Controlled experiments on the web: survey and practical guide](http://www.robotics.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf).  Some of the lecture was taken from there.
 
+Evan Miller's [blog posts about A/B testing](https://www.evanmiller.org/how-not-to-run-an-ab-test.html) are the most clear I have seen.  There are also [handy calculators](https://www.evanmiller.org/announcing-evans-awesome-ab-tools.html)!
+
 A good jumping off point for learning more is the Wikipedia page [Multi-armed bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit).
