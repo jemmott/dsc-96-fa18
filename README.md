@@ -104,3 +104,7 @@ If you have a disability for which you are or may be requesting accommodations, 
 ### Additional Information
 * [Data Science Program](http://datascience.ucsd.edu/academics/undergraduate/index.html)
 * [UC San Diego Library’s guide for data and statistics](http://ucsd.libguides.com/data-statistics)
+
+### Other Versions
+
+Another version of this class is available at https://github.com/afraenkel/DSC96
