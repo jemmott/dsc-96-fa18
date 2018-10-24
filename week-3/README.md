@@ -14,6 +14,8 @@ A big part of data science is using math and data to answer questions.  But how 
 
 For example, we might ask if traffic enforcement is fair with respect to gender.  An initial examination shows that men are pulled over twice as often as women.  But do they drive twice as much?  Twice as recklessly?  What data could we use to get at the big picture?
 
+Questions are often conversational, vagure and ambiguious.  You task as a data scientist is to translate that into a quantitative question that you can answer with a report - in other words matching the available data and mathematical definitions to the request.
+
 ## Reading Assignment
 
 Eremenko Ch 3
