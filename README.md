@@ -14,6 +14,7 @@
 * [**Piazza**](https://piazza.com/class/jm55qhxff665xt)
 * [**Github**](https://github.com/jemmott/dsc-96/)
 * [**Tableau Online**](https://online.tableau.com/#/signin)
+* [**JupyterHub**](http://jupyterhub.ucsd.edu)
 
 ### Course Description
 This class is about using data to answer questions.  This is in contrast with most of your other classes this year, which are about fundamentals and theoretical underpinnings.  The questions you get to answer are the big important ones, including “What happened?”, “Why did it happen?”, and “What will happen?”.  The data used to answer the questions will range from real-world government data to tweets about UCSD to sound recordings. 
