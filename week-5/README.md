@@ -9,6 +9,10 @@ By the end of this week you will:
 
 This week we transition from Tableau to Python, which we will be using for the rest of the quarter.
 
+# JupyterHub repo cloning
+
+```gitpuller https://github.com/jemmott/dsc-96 master dsc96```
+
 ## Reading Assignment
 
 [Physiognomy’s New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a) by Blaise Agüera y Arcas, Margaret Mitchell and Alexander Todorov.
