@@ -7,7 +7,7 @@ We will start by learning a little about how computers store audio recordings, a
 By the end of the week you will:
 * Know how audio signals can be created and modified with code
 * Have done some digital signal processing (DSP)
-* Examined the sensitivity of speech recognition to noise.
+* Examined the sensitivity of audio classification to noise.
 
 ## Reading Assignment
 
