@@ -62,3 +62,5 @@ Eremenko Ch 2
 [This collection of "falsehoods programmers believe in"](https://github.com/kdeldycke/awesome-falsehood) is worth a good look every time you start to work with a new type of data.  A good example is [Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time), which starts with "There are always 24 hours in a day.
 
 [The Stanford Open Policing Project](https://openpolicing.stanford.edu/) has data, tutorials, and links to some of the best work data scientists are doing with police data.  Thanks to Jan Overgoor from that group for helping with resources for how to approach the SDPD data.
+
+[A funded study of the data we will be working with](http://www.sandiegouniontribune.com/news/public-safety/sd-me-traffic-stops-20161202-story.html).  There's a link at the end to the full study.
