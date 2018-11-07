@@ -1,4 +1,6 @@
-# Week 7: Unstructured Text
+# Week 7: Unstructured Text and NLP
+
+This week we will be working with unstructured data, specifically text data.  On the first day we will use the Python package NLTK (Natural Language ToolKit) to analyze tweets and learn a little about natural language processing (NLP).  On day 2 we will explore getting data from the internet, including best practices for scraping data.
 
 ## Reading Assignment
 
