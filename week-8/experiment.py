@@ -3,11 +3,10 @@ import random
 def makeWidgets(distribution):
 
     if distribution == "A":
-        return random.gauss(2, 0.5)
+        return int(random.random()>0.5002)
     elif distribution == "B":
-        return random.gauss(2.2, 0.5)
+        return int(random.random()>0.5006)
     elif distribution == "C":
-        return random.gauss(1.5,10)
+        return int(random.random()>0.36)
     else:
-        print('getSample must include distribution parameter equal to "A" or "B"')
-        
+        print('makeWidgets must include distribution parameter equal to "A" or "B" o "C" ')
