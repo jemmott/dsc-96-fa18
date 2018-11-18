@@ -4,8 +4,11 @@
 
 ### Week 9
 
-[A large-scale analysis of racial disparities
-in police stops across the United States](https://5harad.com/papers/traffic-stops.pdf)
+[We Experiment on Human Beings!](https://github.com/jemmott/dsc-96/blob/master/week-9-10/We%20Experiment%20On%20Human%20Beings!%20%E2%80%93%20The%20OkCupid%20Blog.pdf)
+
+*and*
+
+[The Media has a Probability Problem](https://fivethirtyeight.com/features/the-media-has-a-probability-problem/)
 
 ### Week 10
 
